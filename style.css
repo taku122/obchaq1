@@ -1,0 +1,24 @@
+body {
+    background-image: url("i.webp");
+}
+
+header{
+    background: darkgreen;
+    height: 120px;
+    margin: 0;
+}
+
+.container {
+    background-color: darkgreen;
+    width: 800px;
+    height: 500px;
+    display: flex;
+    border-radius: 30px;
+    border: 2px solid black;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 40vh;
+}
